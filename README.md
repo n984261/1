@@ -1,1 +1,6 @@
-# 1
+# look this
+int main()
+{
+
+return o;
+}
